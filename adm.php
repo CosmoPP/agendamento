@@ -30,7 +30,7 @@
 <div class="content-conteudo">
 	<nav class="menu">
 		<ul>
-			<li>Projetores
+			<li>Projetoress
 				<div class="sub">
 					<section id="n1">
 						<ul>
